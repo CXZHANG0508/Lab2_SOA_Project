@@ -41,7 +41,7 @@
 * **Maven 3.6+**
 * **Node.js 18+**
 * **MySQL 8.0+**
-* **Nacos Server 2.x**
+* **Nacos Server 2.x**（下载地址https://github.com/alibaba/nacos/releases）
 
 ### 2. 数据库和 Nacos 设置
 
